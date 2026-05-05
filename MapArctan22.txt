@@ -1,0 +1,17 @@
+"Lesson in preCalc";
+                         "Lesson in preCalc"
+
+> 
+> fun:=x-> 1/(1+x*x);
+
+                                        1
+                         fun := x -> -------
+                                     1 + x x
+
+> plot(fun(x),x=-2..2);
+
+> int(fun(x),x);
+
+                              arctan(x)
+
+> 
